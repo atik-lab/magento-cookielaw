@@ -26,6 +26,8 @@ Another EU Cookie Law Compliance extension. This extension adds a notice telling
 
 * If you want push any fixes or improvements. I will be glad to check them!
 
+---
+
 ### License
 
 This project is licensed under the terms of the MIT license.
