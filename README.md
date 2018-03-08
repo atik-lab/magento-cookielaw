@@ -1,5 +1,4 @@
-# Valdecode
-## Cookie Law Compliance
+# Cookie Law Compliance
 
 Another EU Cookie Law Compliance extension. This extension adds a notice telling your visitors that the site uses cookies. The notice shows up when a visitor enters the site.
 
@@ -26,3 +25,7 @@ Another EU Cookie Law Compliance extension. This extension adds a notice telling
 ### To developers
 
 * If you want push any fixes or improvements. I will be glad to check them!
+
+### License
+
+This project is licensed under the terms of the MIT license.
